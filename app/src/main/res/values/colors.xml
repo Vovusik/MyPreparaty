@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#37474f</color>
+    <color name="colorPrimary">#455a63</color>
+    <color name="colorAccent">#009688</color>
+
+
+
+
+    <color name="windowBackground">#FFE2E2E2</color>
+    <color name="rowBackground">#F2F2F2</color>
+    <color name="textColorSecondary">#727272</color>
+
+    <color name="colorPastColor">#acacac</color><!--Колір стрілочки у заголовку SortableActivity-->
+
+
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ширина колонок-->
+    <integer name="widths_one">110</integer>
+    <!--<dimen name="widths_two">140</dimen>-->
+    <!--<dimen name="widths_three"> 90</dimen>-->
+    <!--<dimen name="widths_four">70</dimen>-->
+    <!--<dimen name="widths_five"></dimen>-->
+    <!--<dimen name="widths_six">120</dimen>-->
+    <!--<dimen name="widths_seven">110</dimen>-->
+
+
+</resources>
